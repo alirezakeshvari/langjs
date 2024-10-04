@@ -14,13 +14,13 @@
 You can install `langjs` from npm:
 
 ```bash
-npm install langjs
+npm install @alirezakeshvari/langjs
 ```
 
 Or using Yarn:
 
 ```bash
-yarn add langjs
+yarn add @alirezakeshvari/langjs
 ```
 
 ## Usage

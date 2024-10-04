@@ -1,5 +1,5 @@
 {
-  "name": "langjs",
+  "name": "@alirezakeshvari/langjs",
   "version": "1.0.0",
   "main": "dist/app.js",
   "author": "alirezakeshvari",
