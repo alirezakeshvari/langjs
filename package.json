@@ -8,6 +8,10 @@
     "test": "jest",
     "build": "tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alirezakeshvari/langjs.git"
+  },
   "devDependencies": {
     "@types/jest": "^29.5.13",
     "@types/node": "^22.7.4",
